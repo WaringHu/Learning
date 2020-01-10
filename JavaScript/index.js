@@ -1,0 +1,1 @@
+console.log(new Array(1, 2, 3, 'Hello', 'Word', null, false));
