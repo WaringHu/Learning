@@ -6,7 +6,7 @@
 
 ## MsSQL
 
-- [数据库概述](https://github.com/WaringHu/Learning/blob/master/MySQL/Notes/%E4%BA%86%E8%A7%A3%E6%95%B0%E6%8D%AE%E5%BA%93.md)
+- [数据库概述](https://github.com/WaringHu/Learning/blob/master/MySQL/Notes/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%A6%82%E8%BF%B0.md)
 
 - [安装 MySQL](https://github.com/WaringHu/Learning/blob/master/MySQL/Notes/%E5%AE%89%E8%A3%85MySQL.md)
 
