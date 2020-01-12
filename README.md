@@ -2,6 +2,10 @@
 
 学习历程
 
+## Git
+
+- [创建版本库](https://github.com/WaringHu/Learning/blob/master/Git/Notes/%E5%88%9B%E5%BB%BA%E7%89%88%E6%9C%AC%E5%BA%93.md)
+
 ## JavaScript
 
 ## MsSQL
